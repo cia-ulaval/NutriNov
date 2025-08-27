@@ -4,33 +4,39 @@
 
 *   **Type de projet :** Projet Entrepreneurial
 *   **Team Lead :** Eloïse Prevot
-*   **Partenaire Académique/Industriel :** Open Food Facts
+*   **Partenaire Académique/Industriel :** Open Food Facts (Louis Bastarache)
 *   **Effectif recherché :** 5 membres
-*   **Profils recherchés :** Entrepreneuriat, Développement, Data Science, Design, Pitch
+
+**Profils recherchés :**
+  
+| Rôle | Compétences clés |
+|------|------------------|
+|   L'orateur(ice)   | Aisance orale et relationnelle, compétence persuasive, esprit synthétique, maîtrise de l'art du PowerPoint (Bonus: maîtrise de l'anglais oral) |
+|   L'innovateur(ice)   |        Pensée créative, esprit critique et analytique, résolution de problèmes, curiosité, empathie (Bonus : connaissances en compréhension des besoins)         |
+|   L'entrepreneur(e)   |        Maîtriser ou avoir un fort intérêt pour la culture entrepreneuriale (aspects légal, économique et gestion), capacité rédactionnelle, rigueur, autonomie   (Bonus: maîtrise de l'anglais écrit)      |
+|   Concepteur(ice)   |        Capacité d'adaptation, polyvalence technique, apprentissage rapide de nouvelles technologies, développement web/mobile (Bonus : connaissances en UX/UI  )      |
+|   L'analyste   |        Compétences en traitement, analyse et nettoyage des données (Python), maîtrise du SQL et NoSQL, visualisation de données (ex: PowerBI), analyses statistiques (Bonus: connaissances en sécurité des données et RGPD)          |
 
 ## Description du Projet
 
-Développer une solution innovante pour résoudre un problème concret dans le secteur alimentaire en utilisant la base de données Open Food Facts. Le projet combine identification de besoin, conception entrepreneuriale et développement d'un prototype technique.
+Développer une solution créative et innovante pour résoudre des problèmes en lien avec l'alimentation. L'objectif est d'étudier les problèmes existants dans le domaine de l'alimentaire et de concevoir un système intelligent et viable pour répondre à un besoin.
 
-## Objectifs & Livrables
+Dans un premier temps, le projet est orienté entrepreneuriat. Il faut identifier un problème et une population cible afin de proposer une solution innovante et viable pour répondre à ce besoin. Enfin, le projet devient plus technique avec le développement de la solution sous la forme d'un prototype et/ou d'une preuve de concept. Également, il risque d'avoir un travail de préparation des données d'Open Food Facts (base de données ouverte sur les produits alimentaires et leurs compositions).
 
-*   **Objectif Principal :** Créer une startup viable avec un prototype fonctionnel dans le domaine alimentaire.
-*   **Livrables attendus :**
-    *   Étude de marché et validation du problème
-    *   Business plan et modèle économique
-    *   Prototype ou preuve de concept technique
-    *   Participation à des compétitions de pitch
-    *   Pipeline de traitement des données Open Food Facts
+La seule contrainte du projet est que la solution doit cibler le secteur de l’alimentaire.
 
-## Timeline Prévisionnelle de la Session
+#### **Objectifs pour la Session**   
 
-| Semaine | Activité/Phase |
-| :-----: | :------------- |
-|  **1-4**  | **Immersion** - Maîtrise Open Food Facts, étude marché alimentaire |
-|  **5-8**  | **Validation** - Questionnaires "Mom test", analyse résultats |
-|  **9-12** | **Conception** - Design thinking, persona, vision board |
-|  **13-15**| **Business Plan** - Élaboration plan d'affaires |
-|  **H26**  | **Développement** - Prototype et preuve de concept |
+1. Maîtriser l'univers d'Open Food Facts, de l'alimentation au Canada (début A25)
+2. Concevoir un questionnaire adapté au(x) public(s) cible(s) et basé sur les règles du "Mom test" (mi-session A25)
+3. Recrutement de participants pour le questionnaire et analyse des réponses (fin A25) 
+4. Application des étapes d'immersion, de définition, et d'idéation du design thinking (persona, empathy map, critical to satisfaction, vision board etc.) (fin A25)
+5. Avoir un plan d'affaires (début H26)
+6. Développer un prototype et/ou une preuve de concept de la solution (durant H26)
+7. Travailler les données d'Open Food Facts (au minimum durant A25)
+8. Réaliser 4 rapports (2 mi-session et 2 de fin session)
+9. Participer à 2 pitchs d'entrepreneuriat (au cours de l'année)
+
 
 ## Technologies & Compétences Visées
 
@@ -44,8 +50,3 @@ Tu vas aimer ce projet si :
 *   Tu veux vivre l'expérience complète de création d'une startup
 *   Tu aimes résoudre des problèmes concrets avec une approche innovante
 *   Tu souhaites participer à des compétitions de pitch et développer ton réseau entrepreneurial
-
-## Contact & Liens Utiles
-*   **Contact :** [Email d'Eloïse Prevot]
-*   **Mentors :** Émily Cloutier (Entrepreneuriat ULaval), Louis Bastarache (Open Food Facts)
-*   **Ressource :** [Open Food Facts](https://world.openfoodfacts.org/)
