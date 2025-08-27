@@ -25,7 +25,7 @@ Dans un premier temps, le projet est orienté entrepreneuriat. Il faut identifie
 
 La seule contrainte du projet est que la solution doit cibler le secteur de l’alimentaire.
 
-#### **Objectifs pour la Session**   
+## **Objectifs pour la Session**   
 
 1. Maîtriser l'univers d'Open Food Facts, de l'alimentation au Canada (début A25)
 2. Concevoir un questionnaire adapté au(x) public(s) cible(s) et basé sur les règles du "Mom test" (mi-session A25)
